@@ -1,10 +1,11 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Readme Update
 
-# Controls when the workflow will run
 on:
   workflow_dispatch:
+
+  schedule:
+    # Runs at 23:45 on every day
+    - cron: "45 23 * * *"
 
 jobs:
   build:

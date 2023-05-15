@@ -3,7 +3,9 @@ import Parser from "rss-parser";
 
 let text = `# Hi there 👋
 
-## 📕 Latest Blog Posts
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donggi-lee-bit&show_icons=true&theme=radical)
+
+## 📕 최근 포스팅한 블로그 게시글
 
 `;
 
