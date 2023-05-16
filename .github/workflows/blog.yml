@@ -19,14 +19,15 @@ jobs:
         run: npm ci
       - name: Update README
         run: npm start
-      - name: Commit README
+      - name: Git Add
+        run: git add .
+      - name: Git Commit and Push
         run: |
-          git add .
-          git config --local user.email "devdonggilee@gmail.com"
-          git config --local user.name "donggi-lee-bit"
-          git commit -m "블로그 최신 글 README 반영"
-          git push
-      - name: if no posts to update
-        if: ${{ failure() }}
-        run: |
-          echo "No posts to update"
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --local user.email "devdonggilee@gmail.com"
+            git config --local user.name "donggi-lee-bit"
+            git commit -m "블로그 최신 글 README 반영"
+            git push
+          else
+            echo "No posts to update"
+          fi
