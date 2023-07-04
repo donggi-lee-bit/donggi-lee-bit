@@ -1,7 +1,20 @@
-# Hi there 👋
+<h4 align="center"> INTRODUCE </h4>
+<p align="center">
+최적화 작업에 관심이 많습니다. <br>
+문서화하기를 좋아합니다. <br>
+반복적인 업무를 자동화 하는 걸 즐겨합니다. <br>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donggi-lee-bit&show_icons=true&theme=radical)
-
-## 📕 최근 포스팅한 블로그 게시글
-
-<a href=https://donggi.tistory.com/111>외부로부터 의존하지 않는 테스트 ... OAuth 로그인 테스트도 할 수 있다! (WireMock)</a></br><a href=https://donggi.tistory.com/110>정규화의 종류</a></br><a href=https://donggi.tistory.com/109>정규화와 정규화가 필요한 이유</a></br><a href=https://donggi.tistory.com/108>20221024 - 1030</a></br><a href=https://donggi.tistory.com/107>20221017 - 1023</a></br>
+<h4 align="center"> SKILL </h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-black?style=flat&logo=Oracle&logoColor=#9F1D20"/>
+<img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Spring Boot-black?style=flat&logo=SpringBoot&logoColor=#6DB33F"/>
+<br>
+<img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=#4479A1"/>
+<br>
+<img src="https://img.shields.io/badge/aws-black?style=flat&logo=Amazon AWS&logoColor=#232F3E"/>
+<img src="https://img.shields.io/badge/GitHub Actions-black?style=flat&logo=GitHub Actions&logoColor=#2088FF"/>
+<br>
+<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=#181717"/>
+</p>
