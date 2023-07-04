@@ -1,5 +1,3 @@
-<span style="font-size: 40px;"> 👨‍💻 📚 ☕️ 🎧</span>
-
 <h3 align="left"> INTRODUCE </h3>
 <p align="left">
 &#8226; 최적화 작업에 관심이 많습니다. <br>
