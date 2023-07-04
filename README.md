@@ -1,4 +1,4 @@
-# 👨‍💻 📚 ☕️ 🎧
+<span style="font-size: 40px;"> 👨‍💻 📚 ☕️ 🎧</span>
 
 <h3 align="left"> INTRODUCE </h3>
 <p align="left">
