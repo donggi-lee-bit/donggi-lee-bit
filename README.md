@@ -1,3 +1,5 @@
+# 👨‍💻 📚 ☕️ 🎧
+
 <h3 align="left"> INTRODUCE </h3>
 <p align="left">
 &#8226; 최적화 작업에 관심이 많습니다. <br>
@@ -35,5 +37,12 @@
 <p align="left">
 &#8226; 코드스쿼드 백엔드 마스터즈 코스 수료
 <span style="font-size: 13px;"> | 2022.01 - 2022.06 </span>
+</p>
+<br/>
 
+<p align="center">
+<a href="https://donggi.tistory.com/">
+<img src="https://img.shields.io/badge/Tistory-black?style=flat&logo=Tistory&logoColor=#000000"/></a>
+<a href="mailto:devdonggilee@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-black?style=flat&logo=Gmail&logoColor=#EA4335&link=mailto:devdonggilee@gmail.com)"/></a>
 </p>
